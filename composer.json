@@ -1,5 +1,5 @@
 {
-  "name": "sefton/html5blank",
+  "name": "sefton-ntech/html5blank",
   "type": "wordpress-theme",
   "require": {
     "composer/installers": "~1.0"
