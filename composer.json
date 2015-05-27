@@ -1,7 +1,10 @@
 {
   "name": "sefton/html5blank",
-    "type": "wordpress-theme",
-    "extra": {
-      "installer-name": "html5blank"
-    }
+  "type": "wordpress-theme",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "html5blank"
+  }
 }
