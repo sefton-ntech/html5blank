@@ -1,0 +1,7 @@
+{
+  "name": "html5blank/master",
+    "type": "wordpress-theme",
+    "extra": {
+      "installer-name": "html5blank"
+    }
+}
